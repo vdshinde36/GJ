@@ -1,7 +1,7 @@
 # GJ
 
-[code]
+#code
 
 http
 
-[code]
+[--code]
